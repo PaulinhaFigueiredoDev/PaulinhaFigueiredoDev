@@ -27,7 +27,7 @@ O projeto apresenta componentização, rotas, formulários controlados, estados 
 
 **Tecnologias:** React, React Router, Vite, JavaScript, CSS, JSON Server, Vitest e React Testing Library.
 
-[Ver repositório](https://github.com/PaulinhaFigueiredodev/Projetos-React)
+[Ver repositório](https://github.com/PaulinhaFigueiredoDev/Projetos-React)
 
 ## Estudos e fundamentos
 
@@ -35,25 +35,25 @@ O projeto apresenta componentização, rotas, formulários controlados, estados 
 
 Exercícios e projetos desenvolvidos durante o curso Front-end na Vida Real, de Afonso Pacifer. O repositório reúne fundamentos de JavaScript, HTML, CSS, Pug, Stylus, Gulp e organização de código.
 
-[Ver repositório](https://github.com/PaulinhaFigueiredodev/Front-end_na_vida_real)
+[Ver repositório](https://github.com/PaulinhaFigueiredoDev/Front-end_na_vida_real)
 
 ### Organização de CSS
 
 Estudos práticos sobre arquitetura, organização e boas práticas de CSS.
 
-[Ver repositório](https://github.com/PaulinhaFigueiredodev/CSS-Resmaster)
+[Ver repositório](https://github.com/PaulinhaFigueiredoDev/CSS-Resmaster)
 
 ### Estudos com Lit
 
 Exercícios de criação de componentes web utilizando Lit e JavaScript.
 
-[Ver repositório](https://github.com/PaulinhaFigueiredodev/estudos-lit)
+[Ver repositório](https://github.com/PaulinhaFigueiredoDev/estudos-lit)
 
 ### Testes com Playwright
 
 Exercícios de automação de testes realizados durante o curso Playwright Zombie Edition.
 
-[Ver repositório](https://github.com/PaulinhaFigueiredodev/playwright)
+[Ver repositório](https://github.com/PaulinhaFigueiredoDev/playwright)
 
 ## Contato
 
