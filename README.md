@@ -49,6 +49,14 @@ Exercícios de criação de componentes web utilizando Lit e JavaScript.
 
 [Ver repositório](https://github.com/PaulinhaFigueiredoDev/estudos-lit)
 
+### React Foundations
+
+Estudos práticos dos fundamentos do React a partir da trilha oficial React Foundations, incluindo componentes, props, estado, composição com `children` e boas práticas básicas de acessibilidade.
+
+**Tecnologias:** React, JavaScript, HTML, CSS e Vite.
+
+[Ver repositório](https://github.com/PaulinhaFigueiredoDev/react-foundations)
+
 ### Testes com Playwright
 
 Exercícios de automação de testes realizados durante o curso Playwright Zombie Edition.
