@@ -29,6 +29,12 @@ O projeto apresenta componentização, rotas, formulários controlados, estados 
 
 [Ver repositório](https://github.com/PaulinhaFigueiredoDev/Projetos-React)
 
+### A11y Lab
+
+Laboratório de estudos e práticas de acessibilidade para interfaces web.
+
+[Ver repositório](https://github.com/PaulinhaFigueiredoDev/a11y-lab)
+
 ## Estudos e fundamentos
 
 ### Web Components com Lit
