@@ -35,6 +35,18 @@ Laboratório de estudos e práticas de acessibilidade para interfaces web.
 
 [Ver repositório](https://github.com/PaulinhaFigueiredoDev/a11y-lab)
 
+## Performance web e qualidade automatizada
+
+### Web Performance
+
+Aplicação demonstrativa e laboratório prático sobre Web Performance, construído com Next.js e React.
+
+O projeto documenta Core Web Vitals — LCP, INP e CLS — e implementa testes automatizados de funcionalidade, performance e acessibilidade com Playwright, Lighthouse e axe-core. Também inclui testes em perfis Android WebView e uma dashboard para consolidar os resultados de qualidade.
+
+**Tecnologias:** Next.js, React, Material UI, Playwright, Lighthouse, axe-core e Chromium.
+
+[Ver repositório](https://github.com/PaulinhaFigueiredoDev/Web-Performance)
+
 ## Estudos e fundamentos
 
 ### Web Components com Lit
@@ -57,7 +69,7 @@ Estudos práticos sobre arquitetura, organização e boas práticas de CSS.
 
 ### React Foundations
 
-Estudos práticos dos fundamentos do React a partir da trilha oficial React Foundations, incluindo componentes, props, estado, composição com `children` e boas práticas básicas de acessibilidade.
+Estudos práticos dos fundamentos do React a partir da trilha oficial React Foundations, incluindo componentes, props, estado, composição com children e boas práticas básicas de acessibilidade.
 
 **Tecnologias:** React, JavaScript, HTML, CSS e Vite.
 
