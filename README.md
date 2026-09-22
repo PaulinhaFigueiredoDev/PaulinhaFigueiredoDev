@@ -1,9 +1,5 @@
 # Olá, sou Paula Figueiredo 👋
 
-Desenvolvedora Front-end com foco em React, criando interfaces responsivas, acessíveis e organizadas em componentes reutilizáveis.
-
-Tenho experiência prática com JavaScript, integração com APIs, formulários, testes automatizados, Web Components e organização de estilos. Registro neste perfil os projetos e estudos que fazem parte da minha evolução profissional.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Paula%20Figueiredo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paula-m-figueiredo/)
 
 ## Tecnologias e ferramentas
