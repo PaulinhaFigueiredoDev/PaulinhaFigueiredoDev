@@ -2,6 +2,16 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Paula%20Figueiredo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paula-m-figueiredo/)
 
+## Projeto em destaque: MCP Dados Brasil
+
+Servidor MCP em Node.js que transforma consultas ao [ViaCEP](https://viacep.com.br/) em duas ferramentas: `consultar-cep`, para encontrar um endereço pelo CEP, e `buscar-ceps-por-endereco`, para localizar possíveis CEPs por UF, cidade e logradouro.
+
+O projeto demonstra comunicação MCP por stdio, validação de argumentos, tratamento de erros e resultados múltiplos, testes automatizados e integração contínua.
+
+**Tecnologias:** JavaScript, Node.js, Model Context Protocol, Zod e ViaCEP.
+
+[Explorar o repositório e testar as ferramentas](https://github.com/PaulinhaFigueiredoDev/mcp-dados-brasil)
+
 ## Tecnologias e ferramentas
 
 - React, React Router e Vite
