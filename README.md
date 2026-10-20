@@ -6,6 +6,7 @@
 
 - React, React Router e Vite
 - JavaScript, HTML e CSS
+- Node.js e Model Context Protocol (MCP)
 - Web Components e Lit
 - APIs REST e JSON Server
 - Vitest e React Testing Library
