@@ -4,15 +4,17 @@
 
 ## Tecnologias e ferramentas
 
+- Engenharia de IA (Agentes, RAG, MCP)
 - React, React Router e Vite
 - JavaScript, HTML e CSS
-- Node.js e Model Context Protocol (MCP)
+- Node.js
 - Web Components e Lit
-- APIs REST e JSON Server
+- Testes automatizados, unitários e E2E (Playwright)
+- Acessibilidade (a11y)
+- Performance - core web vitals
 - Vitest e React Testing Library
-- Playwright
-- Pug, Stylus e Gulp
 - Git e GitHub
+
 
 ## Projeto em destaque: javascript-mcp
 
