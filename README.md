@@ -14,7 +14,7 @@
 - Pug, Stylus e Gulp
 - Git e GitHub
 
-## Projeto em destaque: MCP Dados Brasil
+## Projeto em destaque: javascript-mcp
 
 Servidor MCP em Node.js que transforma consultas ao [ViaCEP](https://viacep.com.br/) em duas ferramentas: `consultar-cep`, para encontrar um endereço pelo CEP, e `buscar-ceps-por-endereco`, para localizar possíveis CEPs por UF, cidade e logradouro.
 
@@ -22,7 +22,7 @@ O projeto demonstra comunicação MCP por stdio, validação de argumentos, trat
 
 **Tecnologias:** JavaScript, Node.js, Model Context Protocol, Zod e ViaCEP.
 
-[Explorar o repositório e testar as ferramentas](https://github.com/PaulinhaFigueiredoDev/mcp-dados-brasil)
+[Explorar o repositório e testar as ferramentas](https://github.com/PaulinhaFigueiredoDev/javascript-mcp)
 
 ## Projeto React em destaque
 
