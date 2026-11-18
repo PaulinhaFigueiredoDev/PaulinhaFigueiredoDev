@@ -4,17 +4,23 @@
 
 ## Tecnologias e ferramentas
 
-- Engenharia de IA (Agentes, RAG, MCP)
-- React, React Router e Vite
-- JavaScript, HTML e CSS
-- Node.js
-- Web Components e Lit
-- Testes automatizados, unitários e E2E (Playwright)
-- Acessibilidade (a11y)
-- Performance - core web vitals
-- Vitest e React Testing Library
-- Git e GitHub
+- **Agentes, RAG e IA local** — Python, Ollama e FAISS para gerar embeddings, indexar documentos e recuperar trechos por busca vetorial.
+- **Model Context Protocol (MCP)** — desenvolvimento de servidores em Node.js, comunicação via stdio e validação de argumentos com Zod.
+- **Front-end** — JavaScript, HTML, CSS, React, React Router, Next.js, Vite e Web Components com Lit.
+- **Integração com APIs** — APIs REST e simulação de endpoints com JSON Server.
+- **Testes automatizados** — testes unitários e de componentes com Vitest e React Testing Library e testes E2E com Playwright.
+- **Acessibilidade e desempenho** — axe-core, Lighthouse e Core Web Vitals.
+- **Ferramentas de desenvolvimento** — Git, GitHub, Pug, Stylus e Gulp.
 
+## Projeto em destaque: RAG Suporte
+
+Assistente de atendimento para uma loja fictícia de instrumentos musicais. Usa RAG para recuperar trechos do manual de políticas e citar as páginas de referência em respostas sobre trocas, devoluções e entregas. Também consulta arquivos CSV para responder sobre produtos, preços, estoque e pedidos.
+
+Os modelos de conversa e de embeddings rodam localmente com Ollama, e o FAISS indexa os trechos do manual para a busca vetorial.
+
+**Tecnologias:** Python, Ollama e FAISS.
+
+[Explorar o repositório e testar o assistente](https://github.com/PaulinhaFigueiredoDev/rag-support-agent)
 
 ## Projeto em destaque: javascript-mcp
 
